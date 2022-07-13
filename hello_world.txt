@@ -1,1 +1,7 @@
 Hello world! Hello Philippines!
+
+My name is Manu.Antz. Today I'm studying about how Git works.
+I'am a complete noob in programming but I know that I'll be better soon.
+
+
+Guide me Lord. Thank you!
