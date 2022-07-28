@@ -5,3 +5,11 @@ I'am a complete noob in programming but I know that I'll be better soon.
 
 
 Guide me Lord. Thank you!
+
+
+07/29/2022
+Today, I will start my first project from The Odin Project. It's a 
+recipe website and I'm making this update just to test Git since I 
+forgot how to use this.
+
+Thanks!
